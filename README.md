@@ -2,8 +2,6 @@
 
 ### *Player Tracking, Ball Possession, Speed Estimation, and Tactical Insights Using YOLO + CV + ML*
 
-![Demo](output_videos/output_video.mp4)
-
 ---
 
 ## 🚀 **Overview**
