@@ -15,10 +15,6 @@ This system is implemented with **Streamlit**, making it fully interactive and e
 
 ---
 
-Sure! Here is a **Team section with exactly 6 names only** (no roles, no contributions):
-
----
-
 ## 👥 **Team**
 
 * Ahmed Mohamed Ahmed Fouad El-Manylawi
