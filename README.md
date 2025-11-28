@@ -15,7 +15,7 @@ This system is implemented with **Streamlit**, making it fully interactive and e
 
 ## 👥 **Team**
 
-* Ahmed Mohamed Ahmed Fouad El-Manylawi
+* Ahmed El-Manylawi
 * Ali Ahmed
 * Hazem Ashraf
 * Ahmed Said
